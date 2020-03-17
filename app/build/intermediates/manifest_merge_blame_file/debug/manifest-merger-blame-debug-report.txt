@@ -1,0 +1,130 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.myproject"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:5:5-47:19
+12        android:allowBackup="true"
+12-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] C:\Users\pc-click\.gradle\caches\transforms-2\files-2.1\7f6c41cc2a14c0fbaa8d0166c17dc544\core-1.1.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:10:9-35
+19        android:theme="@style/AppTheme" >
+19-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:11:9-40
+20        <activity android:name="com.example.myproject.Activity35" />
+20-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:12:9-57
+20-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:12:19-45
+21        <activity android:name="com.example.myproject.Activity34" />
+21-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:13:9-48
+21-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:13:19-45
+22        <activity android:name="com.example.myproject.Activity33" />
+22-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:14:9-48
+22-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:14:19-45
+23        <activity android:name="com.example.myproject.Activity32" />
+23-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:15:9-48
+23-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:15:19-45
+24        <activity android:name="com.example.myproject.Activity31" />
+24-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:16:9-48
+24-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:16:19-45
+25        <activity android:name="com.example.myproject.Main2Activity" />
+25-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:17:9-51
+25-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:17:19-48
+26        <activity android:name="com.example.myproject.Activity2_11" />
+26-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:18:9-50
+26-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:18:19-47
+27        <activity android:name="com.example.myproject.Activity2_10" />
+27-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:19:9-50
+27-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:19:19-47
+28        <activity android:name="com.example.myproject.Activity2_9" />
+28-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:20:9-49
+28-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:20:19-46
+29        <activity android:name="com.example.myproject.Activity2_8" />
+29-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:21:9-49
+29-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:21:19-46
+30        <activity android:name="com.example.myproject.Activity2_7" />
+30-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:22:9-49
+30-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:22:19-46
+31        <activity android:name="com.example.myproject.Activity2_6" />
+31-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:23:9-49
+31-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:23:19-46
+32        <activity android:name="com.example.myproject.Activity2_5" />
+32-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:24:9-49
+32-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:24:19-46
+33        <activity android:name="com.example.myproject.Activity2_4" />
+33-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:25:9-49
+33-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:25:19-46
+34        <activity android:name="com.example.myproject.Activity2_3" />
+34-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:26:9-49
+34-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:26:19-46
+35        <activity android:name="com.example.myproject.activity2_2" />
+35-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:27:9-49
+35-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:27:19-46
+36        <activity android:name="com.example.myproject.Activity2_1" />
+36-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:28:9-49
+36-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:28:19-46
+37        <activity android:name="com.example.myproject.Activity11" />
+37-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:29:9-48
+37-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:29:19-45
+38        <activity android:name="com.example.myproject.Activity10" />
+38-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:30:9-48
+38-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:30:19-45
+39        <activity android:name="com.example.myproject.Activity9" />
+39-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:31:9-47
+39-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:31:19-44
+40        <activity android:name="com.example.myproject.Activity8" />
+40-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:32:9-47
+40-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:32:19-44
+41        <activity android:name="com.example.myproject.Activity7" />
+41-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:33:9-47
+41-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:33:19-44
+42        <activity android:name="com.example.myproject.Activity6" />
+42-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:34:9-47
+42-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:34:19-44
+43        <activity android:name="com.example.myproject.Activity5" />
+43-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:35:9-47
+43-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:35:19-44
+44        <activity android:name="com.example.myproject.Activity4" />
+44-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:36:9-47
+44-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:36:19-44
+45        <activity android:name="com.example.myproject.Activity3" />
+45-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:37:9-47
+45-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:37:19-44
+46        <activity android:name="com.example.myproject.Activity2" />
+46-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:38:9-47
+46-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:38:19-44
+47        <activity android:name="com.example.myproject.Activity1" />
+47-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:39:9-47
+47-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:39:19-44
+48        <activity android:name="com.example.myproject.MainActivity" >
+48-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:40:9-46:20
+48-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:40:19-47
+49            <intent-filter>
+49-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:41:13-45:29
+50                <action android:name="android.intent.action.MAIN" />
+50-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:42:17-69
+50-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:42:25-66
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:44:17-77
+52-->C:\Users\pc-click\AndroidStudioProjects\MyProject\app\src\main\AndroidManifest.xml:44:27-74
+53            </intent-filter>
+54        </activity>
+55    </application>
+56
+57</manifest>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myproject"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="28" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.myproject.Activity35" />
+        <activity android:name="com.example.myproject.Activity34" />
+        <activity android:name="com.example.myproject.Activity33" />
+        <activity android:name="com.example.myproject.Activity32" />
+        <activity android:name="com.example.myproject.Activity31" />
+        <activity android:name="com.example.myproject.Main2Activity" />
+        <activity android:name="com.example.myproject.Activity2_11" />
+        <activity android:name="com.example.myproject.Activity2_10" />
+        <activity android:name="com.example.myproject.Activity2_9" />
+        <activity android:name="com.example.myproject.Activity2_8" />
+        <activity android:name="com.example.myproject.Activity2_7" />
+        <activity android:name="com.example.myproject.Activity2_6" />
+        <activity android:name="com.example.myproject.Activity2_5" />
+        <activity android:name="com.example.myproject.Activity2_4" />
+        <activity android:name="com.example.myproject.Activity2_3" />
+        <activity android:name="com.example.myproject.activity2_2" />
+        <activity android:name="com.example.myproject.Activity2_1" />
+        <activity android:name="com.example.myproject.Activity11" />
+        <activity android:name="com.example.myproject.Activity10" />
+        <activity android:name="com.example.myproject.Activity9" />
+        <activity android:name="com.example.myproject.Activity8" />
+        <activity android:name="com.example.myproject.Activity7" />
+        <activity android:name="com.example.myproject.Activity6" />
+        <activity android:name="com.example.myproject.Activity5" />
+        <activity android:name="com.example.myproject.Activity4" />
+        <activity android:name="com.example.myproject.Activity3" />
+        <activity android:name="com.example.myproject.Activity2" />
+        <activity android:name="com.example.myproject.Activity1" />
+        <activity android:name="com.example.myproject.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
